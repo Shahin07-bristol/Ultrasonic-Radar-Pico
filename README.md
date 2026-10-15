@@ -9,7 +9,7 @@ The hardware uses a servo motor to perform a continuous 180° sweep while an ult
 ## 📸 Project Showcase & Demo
 
 ### 🎥 Live System Demo
-![Radar Demo](1000115673.mp4)
+![Radar Demo](Assets/Video.mp4)
 
 ### 🛠️ Hardware Setup & Components
 | Component Layout | Assembled Radar Build |
