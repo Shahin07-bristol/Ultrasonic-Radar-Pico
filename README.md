@@ -14,7 +14,7 @@ The hardware uses a servo motor to perform a continuous 180° sweep while an ult
 ### 🛠️ Hardware Setup & Components
 | Component Layout | Assembled Radar Build |
 | :---: | :---: |
-| ![Components](Image_1.jpeg) | ![Assembled Build](1000115674.jpg) |
+| ![Components](Assets/Image_1.jpeg) | ![Assembled Build](1000115674.jpg) |
 
 ---
 
